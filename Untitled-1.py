@@ -97,3 +97,4 @@ print(point)
 
 win.show()
 app.exec_()
+print("привет",point)
